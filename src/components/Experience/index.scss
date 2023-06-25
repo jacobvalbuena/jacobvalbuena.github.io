@@ -1,0 +1,54 @@
+.experience{
+    margin-top: 5%;
+
+    h3{
+        color: black;
+    }
+
+    p{
+        color: black;
+    }
+
+}
+@media screen and (max-width: 1400px){
+    .experience{
+        .vertical-timeline-element{
+            margin-left: 10%;
+        }
+    }
+    
+}
+
+@media screen and (max-width: 300px){
+    .experience{
+        .text-zone{
+            font-size: smaller;
+        }
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .experience{
+        .vertical-timeline-element{
+            width: 40%;  
+            position: relative;  
+            
+        }
+        .vertical-timeline{
+            left: 45%;
+            top: 40px;
+        }
+
+        .vertical-timeline-element-date{
+            display: block;
+            left: -80%;
+        }
+    }
+    .experience-page{
+        .text-zone{
+            width: 100%;
+            left: 20px;
+        }
+    }
+    
+}
