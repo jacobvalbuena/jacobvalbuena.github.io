@@ -49,7 +49,7 @@ const About = () => {
                 <p>
                     My hobbies are playing the guitar, watching sports with the family, and learning more about upcoming technologies.
                 </p>
-                <a href="https://drive.google.com/file/d/1rzXRdv2fJl-0ZivfedlVdRnBSn1XVkwC/view?usp=sharing" target="_blank" rel="noreferrer noopener"><h3 className="resume">Resume</h3></a>
+                <a href="https://drive.google.com/file/d/1Xl8I2kPPaDa8EA9NZgGtlxNSbRF7PqmM/view?usp=drive_link" target="_blank" rel="noreferrer noopener"><h3 className="resume">Resume</h3></a>
             </div>
 
             <div className = 'stage-cube-cont'>
